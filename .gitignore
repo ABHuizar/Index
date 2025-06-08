@@ -1,0 +1,11 @@
+# Entorno virtual
+venv/
+__pycache__/
+
+# Archivos sensibles
+.env
+credentials.json
+
+# Archivos temporales
+*.pyc
+.DS_Store
